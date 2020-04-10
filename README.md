@@ -75,6 +75,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What is a bash alias?
 * How do you set the mail address of the root/a user?
 * What does CTRL-c do?
+Sigint
 * What does CTRL-d do?
 * What does CTRL-z do?
 * What is in /etc/services?
